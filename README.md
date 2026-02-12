@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 🤓
+I am a data science and analytics-focused student with experience in machine learning, statistical modeling, and image-based AI systems. My projects emphasize neural network design, data preprocessing, and computer vision techniques using Python and PyTorch.
 <!--
 **daniamanal/daniamanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
