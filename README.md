@@ -1,7 +1,5 @@
 ## Hi there 🤓
 Python Developer| Data Science & Machine Learning Enthusiast 
-
-
 I am a data-driven student with hands-on experience building machine learning models, including deep learning systems for image classification and network intrusion detection. I leverage Python, PyTorch, and analytical workflows to solve real-world problems in data science and cybersecurity. My GitHub projects include neural network models, data mining notebooks, and Python applications demonstrating strong programming fundamentals and creative problem solving.
 <!--
 **daniamanal/daniamanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
