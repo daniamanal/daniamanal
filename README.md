@@ -1,6 +1,6 @@
 ## <h1>Hello, I'm Dania 🤓</h1><br>
 <p>Python Developer | Data Science & Machine Learning Enthusiast<p></p><br>
-I am a data-driven student with hands-on experience building machine learning models, including deep learning systems for image classification and network intrusion detection. I leverage Python to solve real-world problems in data science and ML. My GitHub projects include neural network models, data mining notebooks, and Python applications demonstrating strong programming fundamentals and creative problem solving. I LOVE Data Analysis, although I have done diverse projects. Occassionally, I delve into the vast world of Cybersecurity and get amazed ✨
+I am a data-driven student learning to build machine learning models, including deep learning systems for image classification and network intrusion detection. I leverage Python to solve real-world problems in data science and ML. My GitHub projects include Neural Network Models, Data Mining projects, and Python applications to implement creative problem solving. I LOVE Data Analysis, although I have done diverse projects. Occassionally, I delve into the vast world of Cybersecurity and get amazed ✨
 
 <h2>Core Expertise: </h2>
 <li>Python application development</li>
