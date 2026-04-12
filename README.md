@@ -7,10 +7,9 @@ I am a data-driven student learning to build machine learning models, including 
 <li>Data cleaning, normalization, and transformation</li>
 <li>Statistical analysis & probability theory</li>
 <li>Designing and training machine learning models</li>
-<li>Deep learning & neural networks (PyTorch)</li>
 <li>Computer vision & image-based classification</li>
 
-<h2>🌐Let's Connect</h2>
+<h2>Let's Connect!</h2>
 <li>Email: manaldania@outlook.com</li>
 <li>LinkedIn: https://www.linkedin.com/in/daniamanal/</li>
 <li>Portfolio: https://github.com/daniamanal/</li>
